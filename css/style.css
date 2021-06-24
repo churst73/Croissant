@@ -17,6 +17,10 @@ hr {
   margin: auto;
 }
 
+.border {
+  border: 5px solid #e0e0e0 !important;
+}
+
 .info {
   font-size: 20px;
   margin: 50px 30px;
